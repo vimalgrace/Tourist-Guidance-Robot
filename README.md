@@ -5,7 +5,7 @@ This is an Bluetooth Controlled + Path Memorizing + Talking Robot.
 This robot can guide the tourist in predefined path. It uses path memorizing and retrieval technique.
 
 Technology Used:
-  * Arduino
+  * Arduino IDE
   * C++ Programming
 
 Compoents Used:
