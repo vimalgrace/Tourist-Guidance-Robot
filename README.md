@@ -1,5 +1,8 @@
 ## Tourist Guidance Robot
 
+## Video Demonstration
+Here is the link to a video demonstrating how the robot works: [Video Link](https://drive.google.com/file/d/17tztygWkenF1IVYsYsdchLMtqEkv39qX/view?usp=sharing)
+
 ## Description
 The Tourist Guidance Robot is a Bluetooth Controlled + Path Memorizing + Talking Robot designed to guide tourists along a predefined path. It utilizes path memorizing and retrieval techniques to provide an interactive and informative experience.
 
@@ -20,9 +23,6 @@ The Tourist Guidance Robot is a Bluetooth Controlled + Path Memorizing + Talking
 - **Lithium-ion Battery:** Powers the robot.
 - **Servo Motor:** Controls additional mechanisms or accessories.
 - **Jumper Wires:** Establishes electrical connections.
-
-## Video Demonstration
-Here is the link to a video demonstrating how the robot works: [Video Link](https://drive.google.com/file/d/17tztygWkenF1IVYsYsdchLMtqEkv39qX/view?usp=sharing)
 
 ## Usage
 1. Assemble the Tourist Guidance Robot by connecting the components as per the provided circuit diagram.
